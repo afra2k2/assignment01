@@ -159,11 +159,12 @@ body{
 .donate-section{
     max-width: 1000px;
     margin: 80px 70px;
-    padding: 20px 60px;
+    padding: 20px 40px;
     align-items: center;
     justify-content: center;
     display: block;
     text-align: center;
+    margin-top: -90px;
 }
 .donate-option{
     display: flex;
@@ -217,7 +218,7 @@ body{
 }
 /* Subscribe style */
 .subscribe-section{
-    margin: 0px 70px;
+    margin: 80px 70px;
     padding: 20px 40px;
     align-items: center;
     justify-content: center;
@@ -225,6 +226,7 @@ body{
     text-align: center;
     background-color: #C6E4D6;
     border-radius: 11px;
+    margin-top: -40px;
 }
 .subscribe-section button{
     text-decoration: none;
@@ -243,4 +245,15 @@ body{
     border: none;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 0px 20px;
+}
+footer{
+    padding: 20px 70px;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+hr{
+    max-width: 750px;
 }
