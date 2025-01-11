@@ -129,6 +129,21 @@ body{
  .vision-card .b3{
     background-color: #FFC239;
  }
+ .quote{
+    padding: 18px 16px;
+    background-image: url('./assets/quote-bg.png');
+    background-position: top left;
+    max-width: 1070px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 11px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+ .quote span{
+    font-weight: 700px;
+    font-size: 19px;
+ }
  /* News styles */
  .news-section{
     margin: 80px 70px;
